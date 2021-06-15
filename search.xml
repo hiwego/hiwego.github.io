@@ -22,9 +22,9 @@
             
             <tag> 精选 </tag>
             
-            <tag> Git </tag>
-            
             <tag> 知识点 </tag>
+            
+            <tag> Git </tag>
             
         </tags>
       
@@ -192,9 +192,9 @@
             
             <tag> GitHub </tag>
             
-            <tag> 博客部署 </tag>
-            
             <tag> vercel </tag>
+            
+            <tag> 博客部署 </tag>
             
         </tags>
       
@@ -219,11 +219,11 @@
       
         <tags>
             
+            <tag> css </tag>
+            
             <tag> 精选 </tag>
             
             <tag> 知识点 </tag>
-            
-            <tag> css </tag>
             
         </tags>
       
@@ -306,11 +306,11 @@
       
         <tags>
             
+            <tag> 精选 </tag>
+            
             <tag> butterfly </tag>
             
             <tag> 图像识别 </tag>
-            
-            <tag> 精选 </tag>
             
         </tags>
       
@@ -364,13 +364,13 @@
       
         <tags>
             
-            <tag> 持续集成 </tag>
-            
-            <tag> CI/CD </tag>
-            
             <tag> 小程序 </tag>
             
             <tag> GitLab </tag>
+            
+            <tag> 持续集成 </tag>
+            
+            <tag> CI/CD </tag>
             
         </tags>
       
@@ -395,11 +395,11 @@
       
         <tags>
             
-            <tag> GitHub </tag>
-            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
+            
+            <tag> GitHub </tag>
             
         </tags>
       
@@ -424,11 +424,11 @@
       
         <tags>
             
-            <tag> GitHub </tag>
-            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
+            
+            <tag> GitHub </tag>
             
         </tags>
       
@@ -453,11 +453,11 @@
       
         <tags>
             
-            <tag> GitHub </tag>
-            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
+            
+            <tag> GitHub </tag>
             
         </tags>
       
