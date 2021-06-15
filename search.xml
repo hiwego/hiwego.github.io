@@ -62,7 +62,7 @@
     
     
     <entry>
-      <title>常⽤ Linux 命令备忘⼿册</title>
+      <title>Linux 常⽤命令备忘⼿册</title>
       <link href="posts/268f35ec.html"/>
       <url>posts/268f35ec.html</url>
       
@@ -364,13 +364,13 @@
       
         <tags>
             
-            <tag> 小程序 </tag>
-            
-            <tag> GitLab </tag>
-            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
+            
+            <tag> 小程序 </tag>
+            
+            <tag> GitLab </tag>
             
         </tags>
       
@@ -395,11 +395,11 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
-            
-            <tag> GitHub </tag>
             
         </tags>
       
@@ -424,11 +424,11 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
-            
-            <tag> GitHub </tag>
             
         </tags>
       
@@ -453,11 +453,11 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
-            
-            <tag> GitHub </tag>
             
         </tags>
       
