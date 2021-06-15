@@ -181,9 +181,9 @@
     
     <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
     
-    <category term="vercel" scheme="https://blog.realwds.com/tags/vercel/"/>
-    
     <category term="博客部署" scheme="https://blog.realwds.com/tags/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/"/>
+    
+    <category term="vercel" scheme="https://blog.realwds.com/tags/vercel/"/>
     
   </entry>
   
