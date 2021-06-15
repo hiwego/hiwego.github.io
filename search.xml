@@ -219,9 +219,9 @@
       
         <tags>
             
-            <tag> css </tag>
-            
             <tag> 精选 </tag>
+            
+            <tag> css </tag>
             
             <tag> 知识点 </tag>
             
@@ -306,11 +306,11 @@
       
         <tags>
             
-            <tag> 精选 </tag>
-            
             <tag> butterfly </tag>
             
             <tag> 图像识别 </tag>
+            
+            <tag> 精选 </tag>
             
         </tags>
       
@@ -364,13 +364,13 @@
       
         <tags>
             
-            <tag> 小程序 </tag>
-            
-            <tag> GitLab </tag>
-            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
+            
+            <tag> 小程序 </tag>
+            
+            <tag> GitLab </tag>
             
         </tags>
       
@@ -395,11 +395,11 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
-            
-            <tag> GitHub </tag>
             
         </tags>
       
@@ -424,11 +424,11 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
-            
-            <tag> GitHub </tag>
             
         </tags>
       
@@ -453,11 +453,11 @@
       
         <tags>
             
+            <tag> GitHub </tag>
+            
             <tag> 持续集成 </tag>
             
             <tag> CI/CD </tag>
-            
-            <tag> GitHub </tag>
             
         </tags>
       
@@ -590,11 +590,11 @@
       
         <tags>
             
+            <tag> 标签 </tag>
+            
             <tag> Hexo </tag>
             
             <tag> butterfly </tag>
-            
-            <tag> 标签 </tag>
             
         </tags>
       
