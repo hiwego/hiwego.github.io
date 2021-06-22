@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://blog.realwds.com/posts/f0f5e1c4.html</loc>
+    <loc>https://blog.realwds.com/posts/eda9d087.html</loc>
     
     <lastmod>2021-06-22</lastmod>
     
   </url>
   
   <url>
-    <loc>https://blog.realwds.com/posts/eda9d087.html</loc>
+    <loc>https://blog.realwds.com/posts/49fde86b.html</loc>
     
     <lastmod>2021-06-22</lastmod>
     
@@ -18,7 +18,14 @@
   <url>
     <loc>https://blog.realwds.com/media/index.html</loc>
     
-    <lastmod>2021-06-17</lastmod>
+    <lastmod>2021-06-22</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://blog.realwds.com/posts/f0f5e1c4.html</loc>
+    
+    <lastmod>2021-06-22</lastmod>
     
   </url>
   
@@ -89,13 +96,6 @@
     <loc>https://blog.realwds.com/essay/index.html</loc>
     
     <lastmod>2021-06-12</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://blog.realwds.com/posts/49fde86b.html</loc>
-    
-    <lastmod>2021-06-07</lastmod>
     
   </url>
   
@@ -347,27 +347,6 @@
   </url>
   
   <url>
-    <loc>https://blog.realwds.com/tags/css/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.realwds.com/tags/Git/</loc>
-    <lastmod>2021-06-22</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.realwds.com/tags/GitHub/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
@@ -383,6 +362,20 @@
   
   <url>
     <loc>https://blog.realwds.com/tags/CI-CD/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.realwds.com/tags/Git/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -425,6 +418,13 @@
   
   <url>
     <loc>https://blog.realwds.com/tags/%E5%8D%9A%E5%AE%A2%E9%83%A8%E7%BD%B2/</loc>
+    <lastmod>2021-06-22</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.realwds.com/tags/css/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -524,14 +524,14 @@
   </url>
   
   <url>
-    <loc>https://blog.realwds.com/categories/CSS/</loc>
+    <loc>https://blog.realwds.com/categories/Git%E7%9B%B8%E5%85%B3/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://blog.realwds.com/categories/Git%E7%9B%B8%E5%85%B3/</loc>
+    <loc>https://blog.realwds.com/categories/CSS/</loc>
     <lastmod>2021-06-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
