@@ -6,7 +6,7 @@
   <link href="https://blog.realwds.com/atom.xml" rel="self"/>
   
   <link href="https://blog.realwds.com/"/>
-  <updated>2021-06-29T03:36:36.708Z</updated>
+  <updated>2021-07-03T03:30:41.848Z</updated>
   <id>https://blog.realwds.com/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Excel 解一元一次方程</title>
+    <link href="https://blog.realwds.com/posts/7431b662.html"/>
+    <id>https://blog.realwds.com/posts/7431b662.html</id>
+    <published>2021-07-03T03:40:00.000Z</published>
+    <updated>2021-07-03T03:30:41.848Z</updated>
+    
+    <content type="html"><![CDATA[<p>今天 <code>leader</code> 扔了一个公式让我们解方程，如下，求 x 的值：</p><p><img src= "https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog/loading.png" data-lazy-src="https://cdn.jsdelivr.net/gh/realwds/cdn@master/blog/JTVDZnJhYyU.ozacxfgphu8.png"></p><ol><li><p>该方程变量为 <code>x</code>, 存放于单元格 <code>A1</code>，<code>A1</code> 即为可变单元格，此时为空。</p></li><li><p><code>A2</code> 单元格设为目标单元格，目标值为 <code>75000</code>，在 <code>A2</code> 单元格输入以下公式:<br><code>=5/(0.001*(1-A1))+5/(0.001*(1-2*A1))+5/(0.001*(1-3*A1))+5/(0.001*(1-4*A1))+5/(0.001*(1-5*A1))+5/(0.001*(1-6*A1))+5/(0.001*(1-7*A1))</code> (注意：<code>*</code>表示乘，公式中不能漏掉乘号<code>*</code> ，也不能漏掉等号<code>=</code>)， 按回车键，这时 <code>A2</code> 中值为 <code>35000</code>。</p></li><li><p>单击“数据”选项卡，单击“数据工具”组中的“假设分析”按钮，在下拉菜单中单击“单变量求解”，弹出“单变量求解”对话框，删除“目标单元格”文本框中文字，输入 <code>A2</code>,在“目标值”文本框中输入 <code>75000</code>。单击“可变单元格”文本框，单击 <code>A1</code> 单元格，在“可变单元格”文本框中即出现了 <code>$A$1</code> ,单击“确定”，在弹出的“单变量求解状态”对话框中单击“确定”。</p></li><li><p><code>A1</code> 单元格出现的数值即为方程的解。 （此方程的解为 <code>0.10914584675042</code>）</p></li></ol>]]></content>
+    
+    
+    <summary type="html">Excel 解一元一次方程</summary>
+    
+    
+    
+    <category term="跨界学习" scheme="https://blog.realwds.com/categories/%E8%B7%A8%E7%95%8C%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Excel" scheme="https://blog.realwds.com/tags/Excel/"/>
+    
+  </entry>
   
   <entry>
     <title>阿里职位评级、薪酬体系及学习路线</title>
@@ -98,9 +119,9 @@
     
     <category term="精选" scheme="https://blog.realwds.com/tags/%E7%B2%BE%E9%80%89/"/>
     
-    <category term="Git" scheme="https://blog.realwds.com/tags/Git/"/>
-    
     <category term="知识点" scheme="https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
+    
+    <category term="Git" scheme="https://blog.realwds.com/tags/Git/"/>
     
   </entry>
   
@@ -269,9 +290,9 @@
     
     <category term="精选" scheme="https://blog.realwds.com/tags/%E7%B2%BE%E9%80%89/"/>
     
-    <category term="知识点" scheme="https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
-    
     <category term="css" scheme="https://blog.realwds.com/tags/css/"/>
+    
+    <category term="知识点" scheme="https://blog.realwds.com/tags/%E7%9F%A5%E8%AF%86%E7%82%B9/"/>
     
   </entry>
   
