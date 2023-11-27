@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://blog.realwds.com/posts/707b4d76.html</loc>
-    <lastmod>2023-11-27</lastmod>
-  </url>
-  <url>
     <loc>https://blog.realwds.com/posts/cc427180.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
@@ -17,6 +13,10 @@
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
+    <loc>https://blog.realwds.com/posts/707b4d76.html</loc>
+    <lastmod>2023-11-27</lastmod>
+  </url>
+  <url>
     <loc>https://blog.realwds.com/posts/84339efc.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
@@ -25,31 +25,19 @@
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
-    <loc>https://blog.realwds.com/posts/90b877e6.html</loc>
-    <lastmod>2023-11-27</lastmod>
-  </url>
-  <url>
     <loc>https://blog.realwds.com/posts/d75f3505.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
-    <loc>https://blog.realwds.com/posts/7431b662.html</loc>
-    <lastmod>2023-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.realwds.com/posts/f0f5e1c4.html</loc>
-    <lastmod>2023-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.realwds.com/posts/eda9d087.html</loc>
-    <lastmod>2023-11-27</lastmod>
-  </url>
-  <url>
-    <loc>https://blog.realwds.com/posts/3b154c4f.html</loc>
+    <loc>https://blog.realwds.com/posts/90b877e6.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
     <loc>https://blog.realwds.com/posts/7d6b9bff.html</loc>
+    <lastmod>2023-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.realwds.com/posts/3b154c4f.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
@@ -69,6 +57,18 @@
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
+    <loc>https://blog.realwds.com/posts/7431b662.html</loc>
+    <lastmod>2023-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.realwds.com/posts/eda9d087.html</loc>
+    <lastmod>2023-11-27</lastmod>
+  </url>
+  <url>
+    <loc>https://blog.realwds.com/posts/f0f5e1c4.html</loc>
+    <lastmod>2023-11-27</lastmod>
+  </url>
+  <url>
     <loc>https://blog.realwds.com/posts/2c9bc301.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
@@ -77,11 +77,11 @@
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
-    <loc>https://blog.realwds.com/posts/48bb9713.html</loc>
+    <loc>https://blog.realwds.com/posts/39c5cc87.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
   <url>
-    <loc>https://blog.realwds.com/posts/39c5cc87.html</loc>
+    <loc>https://blog.realwds.com/posts/48bb9713.html</loc>
     <lastmod>2023-11-27</lastmod>
   </url>
 </urlset> 

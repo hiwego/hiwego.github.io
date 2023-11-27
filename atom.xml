@@ -315,13 +315,13 @@
     
     <category term="精选" scheme="https://blog.realwds.com/tags/%E7%B2%BE%E9%80%89/"/>
     
-    <category term="持续集成" scheme="https://blog.realwds.com/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
-    
-    <category term="CI/CD" scheme="https://blog.realwds.com/tags/CI-CD/"/>
-    
     <category term="小程序" scheme="https://blog.realwds.com/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/"/>
     
     <category term="GitLab" scheme="https://blog.realwds.com/tags/GitLab/"/>
+    
+    <category term="持续集成" scheme="https://blog.realwds.com/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
+    
+    <category term="CI/CD" scheme="https://blog.realwds.com/tags/CI-CD/"/>
     
   </entry>
   
@@ -342,11 +342,11 @@
     <category term="Git相关" scheme="https://blog.realwds.com/categories/Git%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
-    
     <category term="持续集成" scheme="https://blog.realwds.com/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
     
     <category term="CI/CD" scheme="https://blog.realwds.com/tags/CI-CD/"/>
+    
+    <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
     
   </entry>
   
@@ -367,11 +367,11 @@
     <category term="Git相关" scheme="https://blog.realwds.com/categories/Git%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
-    
     <category term="持续集成" scheme="https://blog.realwds.com/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
     
     <category term="CI/CD" scheme="https://blog.realwds.com/tags/CI-CD/"/>
+    
+    <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
     
   </entry>
   
@@ -392,11 +392,11 @@
     <category term="Git相关" scheme="https://blog.realwds.com/categories/Git%E7%9B%B8%E5%85%B3/"/>
     
     
-    <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
-    
     <category term="持续集成" scheme="https://blog.realwds.com/tags/%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90/"/>
     
     <category term="CI/CD" scheme="https://blog.realwds.com/tags/CI-CD/"/>
+    
+    <category term="GitHub" scheme="https://blog.realwds.com/tags/GitHub/"/>
     
   </entry>
   
